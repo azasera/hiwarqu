@@ -1,0 +1,11 @@
+#التَّحِيَّةُ فِي الفَصْلِ
+
+الطَّالِبُ: اَلسَّلَامُ عَلَيْكُمْ يَا أُسْتَاذُ | Assalāmu‘alaikum Ustaz
+الأُسْتَاذُ: وَعَلَيْكُمُ السَّلَامُ، صَبَاحُ الْخَيْرِ | Wa‘alaikumussalām, selamat pagi
+الطَّالِبُ: صَبَاحُ النُّورِ، كَيْفَ حَالُكَ؟ | Selamat pagi juga, bagaimana kabar Anda?
+الأُسْتَاذُ: أَنَا بِخَيْرٍ، شُكْرًا. وَكَيْفَ حَالُكَ أَنْتَ؟ | Saya baik, terima kasih. Bagaimana kabarmu?
+الطَّالِبُ: أَنَا بِخَيْرٍ، اَلْحَمْدُ لِلَّهِ | Saya baik, alhamdulillāh
+الأُسْتَاذُ: هَلْ أَنْتَ مُسْتَعِدٌّ لِلدَّرْسِ الْيَوْمَ؟ | Apakah kamu siap untuk pelajaran hari ini?
+الطَّالِبُ: نَعَمْ، أَنَا مُسْتَعِدٌّ يَا أُسْتَاذُ | Ya, saya siap Ustaz
+الأُسْتَاذُ: أَيّ مَادَّةٍ؟ | Mata pelajaran apa?
+الطَّالِبُ: الْمَادَّةُ اللُّغَةِ الْعَرَبِيَّةِ | Pelajaran Bahasa Arab
